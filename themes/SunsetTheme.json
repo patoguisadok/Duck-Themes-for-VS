@@ -1,0 +1,20 @@
+{
+  "name": "Sunset",
+  "colors": {
+    "editor.background": "#2E1A47",
+    "editor.foreground": "#FFDAB9",
+    "editorCursor.foreground": "#FFA07A",
+    "editor.selectionBackground": "#662E6D",
+    "editor.lineHighlightBackground": "#3A2A5F",
+    "editorLineNumber.foreground": "#E6A34E",
+    "statusBar.background": "#5B244C",
+    "terminal.background": "#301940",
+    "terminal.foreground": "#FFDAB9",
+    "sideBar.background": "#2A1840",
+    "sideBar.foreground": "#E6A34E",
+    "titleBar.activeBackground": "#5B244C",
+    "titleBar.activeForeground": "#FFDAB9",
+    "activityBar.background": "#401A5B",
+    "activityBar.foreground": "#FFDAB9"
+  }
+}
