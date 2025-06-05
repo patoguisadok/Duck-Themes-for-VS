@@ -1,0 +1,17 @@
+{
+    "name": "High-Night",
+    "colors": {
+        "editor.background": "#121212",
+        "editor.foreground": "#FFFFFF",
+        "editorLineNumber.foreground": "#FF4081",
+        "editorCursor.foreground": "#FFD700",
+        "editor.selectionBackground": "#333333",
+        "editor.wordHighlightBackground": "#555555",
+        "editor.keywordColor": "#FF5722",
+        "editor.stringColor": "#00E676",
+        "editor.commentColor": "#B0BEC5",
+        "activityBar.background": "#1E1E1E",
+        "sideBar.background": "#121212",
+        "statusBar.background": "#1E1E1E"
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Sunset Vista",
+  "colors": {
+    "editor.background": "#3C1E57",
+    "editor.foreground": "#FFD1A0",
+    "editorCursor.foreground": "#FF8C42",
+    "editor.selectionBackground": "#7D3C6D",
+    "editor.lineHighlightBackground": "#442A61",
+    "editorLineNumber.foreground": "#E6C34E",
+    "statusBar.background": "#6B2C50",
+    "terminal.background": "#442050",
+    "terminal.foreground": "#FFD1A0",
+    "sideBar.background": "#351B4C",
+    "sideBar.foreground": "#E6C34E",
+    "titleBar.activeBackground": "#6B2C50",
+    "titleBar.activeForeground": "#FFD1A0",
+    "activityBar.background": "#502060",
+    "activityBar.foreground": "#FFD1A0"
+  }
+}

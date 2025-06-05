@@ -1,0 +1,17 @@
+{
+    "name": "Beach",
+    "colors": {
+        "editor.background": "#E3C8A8",
+        "editor.foreground": "#4E342E",
+        "editorLineNumber.foreground": "#795548",
+        "editorCursor.foreground": "#FF9800",
+        "editor.selectionBackground": "#D2B48C",
+        "editor.wordHighlightBackground": "#BC8F8F",
+        "editor.keywordColor": "#0277BD",
+        "editor.stringColor": "#388E3C",
+        "editor.commentColor": "#6D4C41",
+        "activityBar.background": "#D2A679",
+        "sideBar.background": "#E3C8A8",
+        "statusBar.background": "#C38E63"
+    }
+}

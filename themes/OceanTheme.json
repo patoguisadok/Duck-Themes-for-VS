@@ -1,0 +1,17 @@
+{
+    "name": "Ocean",
+    "colors": {
+        "editor.background": "#003366",
+        "editor.foreground": "#FFFFFF",
+        "editorLineNumber.foreground": "#5F9EA0",
+        "editorCursor.foreground": "#00CED1",
+        "editor.selectionBackground": "#191970",
+        "editor.wordHighlightBackground": "#20B2AA",
+        "editor.keywordColor": "#00CED1",
+        "editor.stringColor": "#20B2AA",
+        "editor.commentColor": "#5F9EA0",
+        "activityBar.background": "#191970",
+        "sideBar.background": "#003366",
+        "statusBar.background": "#191970"
+    }
+}
