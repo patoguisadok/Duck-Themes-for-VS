@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "dtfvs" extension will be documented in this file.
+In this file, you will find the full change history and its versions. If you have any questions, [visit the official Duck Army website](https://duckarmy.uno/).
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [v1.0.0]
 
-## [Unreleased]
+-The first release themes were created. 
+-Extension files were modified for easier use.
 
-- Initial release
+For any questions, suggestions, or bug reports, contact: huesozzz.pato.all@hotmail.com
