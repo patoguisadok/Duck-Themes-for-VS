@@ -1,0 +1,54 @@
+{
+    "name": "Vibrant",
+    "colors": {
+        "editor.background": "#1E1E1E",
+        "editor.foreground": "#FFFFFF",
+        "editorLineNumber.foreground": "#FFC107",
+        "editorCursor.foreground": "#FF3D00",
+        "editor.selectionBackground": "#FFEB3B55",
+        "editor.wordHighlightBackground": "#FF980055",
+        "activityBar.background": "#D500F9",
+        "sideBar.background": "#212121",
+        "statusBar.background": "#00E676"
+    },
+    "tokenColors": [
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#FF3D00",
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#00E676"
+            }
+        },
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#FFEB3B",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#29B6F6"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#D500F9"
+            }
+        },
+        {
+            "scope": "number",
+            "settings": {
+                "foreground": "#FFC107"
+            }
+        }
+    ]
+}

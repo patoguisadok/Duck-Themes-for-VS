@@ -2,8 +2,8 @@
   "icon": "icon.png",
   "name": "dtfvs",
   "displayName": "Duck Themes for VS",
-  "description": "Duck Themes is a customization for your VS that changes the icons and adds new themes to make your development environment a more comfortable place.",
-  "version": "1.0.0",
+  "description": "Duck Themes customizes VS by changing icons and adding themes for a more comfortable development environment.",
+  "version": "1.0.1",
   "publisher": "patoguisadok",
   "repository": {
   "type": "git",
@@ -13,15 +13,15 @@
     "vscode": "^1.100.0"
   },
   "categories": [
-    "Other"
+    "Themes"
   ],
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
     "iconThemes": [
       {
-        "id": "duck-icon-animated",
-        "label": "The best custom icons",
+        "id": "duck-icons",
+        "label": "Duck Icons",
         "path": "./icons/icons.json"
       }
     ],
@@ -55,6 +55,16 @@
         "label": "Sunset Vista",
         "uiTheme": "vs-dark",
         "path": "./themes/SunsetVistaTheme.json"
+      },
+      {
+        "label": "Malibú",
+        "uiTheme": "vs",
+        "path": "./themes/MalibuTheme.json"
+      },
+      {
+        "label": "Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VibrantTheme.json"
       }
     ]
   },

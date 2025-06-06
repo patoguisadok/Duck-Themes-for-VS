@@ -1,44 +1,40 @@
 {
-    "name": "Ocean",
+    "name": "Malibú",
     "colors": {
-        "editor.background": "#003366",
-        "editor.foreground": "#FFFFFF",
-        "editorLineNumber.foreground": "#5F9EA0",
-        "editorCursor.foreground": "#00CED1",
-        "editor.selectionBackground": "#191970",
-        "editor.wordHighlightBackground": "#20B2AA",
-        "editor.keywordColor": "#00CED1",
-        "editor.stringColor": "#20B2AA",
-        "editor.commentColor": "#5F9EA0",
-        "activityBar.background": "#191970",
-        "sideBar.background": "#003366",
-        "statusBar.background": "#191970"
+        "editor.background": "#F5E1C8", 
+        "editor.foreground": "#1E3A5F",
+        "editorLineNumber.foreground": "#FF9800",
+        "editorCursor.foreground": "#00BCD4",
+        "editor.selectionBackground": "#FFCC80",
+        "editor.wordHighlightBackground": "#FFD54F",
+        "activityBar.background": "#FFAB40",
+        "sideBar.background": "#FFE0B2",
+        "statusBar.background": "#00838F"
     },
-
     "tokenColors": [
         {
             "scope": "keyword",
             "settings": {
-                "foreground": "#0277BD"
+                "foreground": "#FF4081"
             }
         },
         {
             "scope": "string",
             "settings": {
-                "foreground": "#388E3C"
+                "foreground": "#00796B"
             }
         },
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#6D4C41",
+                "foreground": "#5D4037",
                 "fontStyle": "italic"
             }
         },
         {
             "scope": "variable",
             "settings": {
-                "foreground": "#BF360C"
+                "foreground": "#D84315"
             }
         },
         {

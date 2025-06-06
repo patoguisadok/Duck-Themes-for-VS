@@ -13,5 +13,45 @@
         "activityBar.background": "#252525",
         "sideBar.background": "#1B1B1B",
         "statusBar.background": "#252525"
-    }
+    },
+
+    "tokenColors": [
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#0277BD"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#388E3C"
+            }
+        },
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#6D4C41",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#BF360C"
+            }
+        },
+        {
+            "scope": "function",
+            "settings": {
+                "foreground": "#FF5722"
+            }
+        },
+        {
+            "scope": "number",
+            "settings": {
+                "foreground": "#7B1FA2"
+            }
+        }
+    ]
 }
