@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-		"module": "Node16",
+		"module": "commonjs",
 		"target": "ES2022",
 		"lib": [
 			"ES2022",
@@ -11,5 +11,6 @@
         "noImplicitReturns": true,
         "noFallthroughCasesInSwitch": true,
         "noUnusedParameters": true,
+		"types": ["node", "vscode"]
   }
 }

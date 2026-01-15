@@ -3,12 +3,12 @@
   "name": "dtfvs",
   "displayName": "Duck Themes for VS",
   "description": "Duck Themes customizes VS by changing icons and adding themes for a more comfortable development environment.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "patoguisadok",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/patoguisadok/Duck-Themes-for-VS"
-},
+    "type": "git",
+    "url": "https://github.com/patoguisadok/Duck-Themes-for-VS"
+  },
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -33,7 +33,7 @@
       },
       {
         "label": "Low-Night",
-        "uiTheme":"vs-dark",
+        "uiTheme": "vs-dark",
         "path": "./themes/LowNightTheme.json"
       },
       {
@@ -86,7 +86,7 @@
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",
-    "@types/node": "20.x",
+    "@types/node": "^20.19.29",
     "@types/vscode": "^1.100.0",
     "@typescript-eslint/eslint-plugin": "^8.31.1",
     "@typescript-eslint/parser": "^8.31.1",

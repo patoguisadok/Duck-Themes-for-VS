@@ -1,6 +1,13 @@
 # Change Log
 
-In this file, you will find the full change history and its versions. If you have any questions, [visit the official Duck Army website](https://duckarmy.uno/).
+In this file, you will find the full change history and its versions. If you have any questions, [visit the official Duck Army website](https://duckarmy.gamer.gd/).
+
+##[v1.0.2]
+-Modified the logo
+-Fixed bug themes
+-Started the development of icon file
+
+For any questions, suggestions, or bug reports, contact: huesozzz.pato.all@hotmail.com
 
 ##[v1.0.1]
 
